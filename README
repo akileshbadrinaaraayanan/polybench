@@ -8,6 +8,10 @@ Contact:
    Louis-Noel Pouchet <pouchet@cse.ohio-state.edu>
    Tomofumi Yuki <tomofumi.yuki@inria.fr>
 
+This includes the code and benchmarks for 
+### When Polyhedral Optimizations Meet Deep Learning Kernels.
+Presented at [24th HiPC](https://hipc.org/2017/). <br/>
+Link to [Paper](https://drive.google.com/file/u/1/d/1yEi5kYJ8E66EnTPiKz3OCS0kX7NFadPo/view)
 
 PolyBench is a benchmark suite of 30 numerical computations with
 static control flow, extracted from operations in various application
